@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "Vary-Light";
+	src: url("./assets/fonts/Vary-Light.otf");
+}
